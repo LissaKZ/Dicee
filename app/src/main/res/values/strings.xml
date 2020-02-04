@@ -4,4 +4,5 @@
     <string name="LeftDice">LeftDice</string>
     <string name="RightDice">RightDice</string>
     <string name="Logo">CasinoLogo</string>
+    <string name="description_button">the button that rolls dicies</string>
 </resources>
