@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="LeftDice">Левый кубик</string>
+    <string name="Logo">Лого</string>
+    <string name="RightDice">Правый кубик</string>
+    <string name="button_name">Бросить</string>
+    <string name="description_button">Кнопка бросающая кубики</string>
+</resources>
